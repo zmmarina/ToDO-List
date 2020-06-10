@@ -1,6 +1,7 @@
 <h1>To Do List</h1>
 
 <h2> A list to control activities to be done </h2>
+<p> https://todozm.netlify.app/ </p>
 
 <h3>Functionalities</h3>
 <ol>
